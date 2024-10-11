@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|c:\\users\\download\\documents\\1_university\\4th semester\\remaining projects from 3rd semester\\programmingproject\\pos_system-winform\\programmingproject\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\programmingproject\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\programmingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\programmingproject\\catagory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\catagory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\programmingproject\\catagory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\catagory_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\programmingproject\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC60F8B-860D-42E1-9FFE-4C89D9B64C58}|ProgrammingProject\\ProgrammingProject.csproj|solutionrelative:programmingproject\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Login_Form.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Login_Form.cs",
+              "RelativeToolTip": "ProgrammingProject\\Login_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:39:41.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Login_Form.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\ProgrammingProject\\ProgrammingProject\\Login_Form.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\ProgrammingProject\\ProgrammingProject\\Login_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-11T09:39:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catagory_Form.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Catagory_Form.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\Catagory_Form.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Catagory_Form.cs",
+              "RelativeToolTip": "ProgrammingProject\\Catagory_Form.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAIwD4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-11T09:39:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catagory_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Catagory_Form.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\Catagory_Form.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Desktop\\ProgrammingProject\\ProgrammingProject\\Catagory_Form.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Desktop\\ProgrammingProject\\ProgrammingProject\\Catagory_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-11T09:39:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Program.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\Program.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\Program.cs",
+              "RelativeToolTip": "ProgrammingProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:39:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\DBConnection.cs",
+              "RelativeDocumentMoniker": "ProgrammingProject\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\DOWNLOAD\\Documents\\1_University\\4th Semester\\Remaining Projects from 3rd Semester\\ProgrammingProject\\PoS_System-WinForm\\ProgrammingProject\\DBConnection.cs",
+              "RelativeToolTip": "ProgrammingProject\\DBConnection.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:39:41.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
